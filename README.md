@@ -27,20 +27,6 @@ The data used in this analysis includes:
 ### Accessing the Dataset
 The dataset used for this analysis is included in the `data/` folder as `vgsales.csv`.
 
-## Folder Structure
-TABLEAU-DASHBOARD-VIDEOGAMEANALYSIS/
-│
-├── index.html               # HTML file linking to Tableau dashboard
-├── README.md                # Project overview and instructions
-├── dashboard_screenshots/   # Folder for all screenshots
-│   └── dashboard_preview.png   # Main screenshot of the dashboard
-│
-├── tableau_workbook/        # Folder for Tableau files
-│   └── gamesdashboard.twbx     # Packaged Tableau workbook file
-│
-├── data/                    # Folder for raw or cleaned datasets
-│   └── vgsales.csv.csv   # The dataset used in the analysis
-
 ## Instructions to View the Dashboard
 ### Option 1: Tableau Public
 - Visit the interactive dashboard hosted on Tableau Public: [Open Dashboard](https://public.tableau.com/views/gamesdashboard_Jayakishan/Games?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
